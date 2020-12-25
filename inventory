@@ -1,7 +1,6 @@
 [local]
-localhost
+testserver
 
 [practice]
-localhost.localdomain
-
+testserver
 
